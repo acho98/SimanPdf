@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain_openai
+langchain_core
+faiss-cpu
+streamlit
+pymupdf
+python-dotenv
+#pip install --only-binary :all: greenlet
+
