@@ -1,5 +1,5 @@
 # SimanPdf
-SimanPdf is a RAG (Retrieval-Augmented Generation) bot based on PDF files.
+SimanPdf is a RAG (Retrieval-Augmented Generation) bot based on PDF files
 
 ## Key Features
 - Extract text and data from PDF files
