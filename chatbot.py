@@ -15,7 +15,7 @@ load_dotenv()
 openai_api_key = os.getenv('OPENAI_API_KEY')
 
 st.set_page_config(page_title="simanpdf", page_icon="")
-st.title("심안(心眼)봇")
+st.title("라이나봇")
 
 def get_session_history(session_id: str) -> BaseChatMessageHistory:
     if session_id not in st.session_state["store"]:
